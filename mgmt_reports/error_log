@@ -1,0 +1,6 @@
+[25-Aug-2022 13:31:45 UTC] PHP Notice:  Undefined index: ROLEID in /home/jv9my685us5z/public_html/Textile/includes/check_session_admin.php on line 14
+[25-Aug-2022 13:31:45 UTC] PHP Notice:  Undefined index: ROLEID in /home/jv9my685us5z/public_html/Textile/includes/check_session_admin.php on line 14
+[25-Aug-2022 13:31:45 UTC] PHP Notice:  Undefined index: LOGID in /home/jv9my685us5z/public_html/Textile/includes/header.php on line 30
+[25-Aug-2022 13:31:59 UTC] PHP Notice:  Undefined index: supplier_group_code in /home/jv9my685us5z/public_html/Textile/mgmt_reports/supplier_os_summary_display.php on line 62
+[25-Aug-2022 13:31:59 UTC] PHP Notice:  Undefined index: comm_report_type in /home/jv9my685us5z/public_html/Textile/mgmt_reports/supplier_os_summary_display.php on line 65
+[25-Aug-2022 13:31:59 UTC] PHP Notice:  Undefined index: GST in /home/jv9my685us5z/public_html/Textile/mgmt_reports/supplier_os_summary_display.php on line 70
